@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<umlnotation:UMLDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_dQkiQGPtEeW6__J4rxrvtA" type="Class" name="classdiagram.dnx">
+  <eAnnotations xmi:id="_dQkiQWPtEeW6__J4rxrvtA" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
+    <details xmi:id="_dQuTQGPtEeW6__J4rxrvtA" key="com.ibm.xtools.activities.javaVisualizerActivity" value="1"/>
+  </eAnnotations>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_f7FAsGPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_f7gegGPtEeW6__J4rxrvtA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_f7gegWPtEeW6__J4rxrvtA" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f7nMMGPtEeW6__J4rxrvtA" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f7nMMWPtEeW6__J4rxrvtA" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f7nMMmPtEeW6__J4rxrvtA" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f7nMM2PtEeW6__J4rxrvtA" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f7oaUGPtEeW6__J4rxrvtA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f7oaUWPtEeW6__J4rxrvtA" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=BlockFactory%5Bjcu%5Ename=BlockFactory.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f7FAsWPtEeW6__J4rxrvtA" x="9337" y="12819"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_f7oaUmPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_f7oaVGPtEeW6__J4rxrvtA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_f7oaVWPtEeW6__J4rxrvtA" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f7pBYGPtEeW6__J4rxrvtA" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f7pBYWPtEeW6__J4rxrvtA" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f7pBYmPtEeW6__J4rxrvtA" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f7pBY2PtEeW6__J4rxrvtA" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f7pocGPtEeW6__J4rxrvtA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f7pocWPtEeW6__J4rxrvtA" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=DirtBlock%5Bjcu%5Ename=DirtBlock.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f7oaU2PtEeW6__J4rxrvtA" x="6403" y="20903"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_f7pocmPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_f7qPgGPtEeW6__J4rxrvtA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_f7qPgWPtEeW6__J4rxrvtA" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f7qPgmPtEeW6__J4rxrvtA" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f7qPg2PtEeW6__J4rxrvtA" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f7qPhGPtEeW6__J4rxrvtA" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f7qPhWPtEeW6__J4rxrvtA" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f7rdoGPtEeW6__J4rxrvtA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f7rdoWPtEeW6__J4rxrvtA" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Block%5Bjcu%5Ename=Block.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f7poc2PtEeW6__J4rxrvtA" x="9785" y="27361"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_f7rdomPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_f7sEsGPtEeW6__J4rxrvtA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_f7sEsWPtEeW6__J4rxrvtA" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f7sEsmPtEeW6__J4rxrvtA" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f7sEs2PtEeW6__J4rxrvtA" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f7sEtGPtEeW6__J4rxrvtA" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f7srwGPtEeW6__J4rxrvtA" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f7t54GPtEeW6__J4rxrvtA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f7t54WPtEeW6__J4rxrvtA" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=WorldMap%5Bjcu%5Ename=WorldMap.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f7rdo2PtEeW6__J4rxrvtA" x="17542"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_f7t54mPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_f7ug8GPtEeW6__J4rxrvtA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_f7ug8WPtEeW6__J4rxrvtA" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f7ug8mPtEeW6__J4rxrvtA" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f7ug82PtEeW6__J4rxrvtA" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f70AgGPtEeW6__J4rxrvtA" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f70AgWPtEeW6__J4rxrvtA" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f70AgmPtEeW6__J4rxrvtA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f70nkGPtEeW6__J4rxrvtA" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Location%5Bjcu%5Ename=Location.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f7t542PtEeW6__J4rxrvtA" x="23026" y="19385"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_f70nkWPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_f71OoGPtEeW6__J4rxrvtA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_f71OoWPtEeW6__J4rxrvtA" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f71OomPtEeW6__J4rxrvtA" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f71Oo2PtEeW6__J4rxrvtA" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f71OpGPtEeW6__J4rxrvtA" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f71OpWPtEeW6__J4rxrvtA" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f72cwGPtEeW6__J4rxrvtA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f72cwWPtEeW6__J4rxrvtA" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Perspective%5Bjcu%5Ename=Perspective.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f70nkmPtEeW6__J4rxrvtA" x="28914" y="14155"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_f72cwmPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_f73D0GPtEeW6__J4rxrvtA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_f73D0WPtEeW6__J4rxrvtA" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f73D0mPtEeW6__J4rxrvtA" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f73D02PtEeW6__J4rxrvtA" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f73D1GPtEeW6__J4rxrvtA" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f73D1WPtEeW6__J4rxrvtA" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f74R8GPtEeW6__J4rxrvtA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f74R8WPtEeW6__J4rxrvtA" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Region%5Bjcu%5Ename=Region.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f72cw2PtEeW6__J4rxrvtA" x="22292" y="11776"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_f74R8mPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_f745AGPtEeW6__J4rxrvtA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_f745AWPtEeW6__J4rxrvtA" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f745AmPtEeW6__J4rxrvtA" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f745A2PtEeW6__J4rxrvtA" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f745BGPtEeW6__J4rxrvtA" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f745BWPtEeW6__J4rxrvtA" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f76HIGPtEeW6__J4rxrvtA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f76HIWPtEeW6__J4rxrvtA" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=SkyBlock%5Bjcu%5Ename=SkyBlock.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f74R82PtEeW6__J4rxrvtA" x="11753" y="20903"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_f8cSoGPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_f8jAUGPtEeW6__J4rxrvtA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_f8jAUWPtEeW6__J4rxrvtA" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f8jAUmPtEeW6__J4rxrvtA" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f8jnYGPtEeW6__J4rxrvtA" type="Kind"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f8jnYWPtEeW6__J4rxrvtA" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f8jnYmPtEeW6__J4rxrvtA" type="Parent"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_f8jnY2PtEeW6__J4rxrvtA" type="EnumerationCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_f8jnZGPtEeW6__J4rxrvtA" visible="false" type="AttributeCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_f8qVEGPtEeW6__J4rxrvtA" visible="false" type="OperationCompartment"/>
+    <element xmi:type="uml:Enumeration" href="mmi:///#jsrctype%5Ename=Terrain%5Bjcu%5Ename=Terrain.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D$uml.Enumeration"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f8cSoWPtEeW6__J4rxrvtA" x="18532" y="20703"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_f8qVEWPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_f8q8IGPtEeW6__J4rxrvtA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_f8q8IWPtEeW6__J4rxrvtA" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f8q8ImPtEeW6__J4rxrvtA" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f8q8I2PtEeW6__J4rxrvtA" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_f8q8JGPtEeW6__J4rxrvtA" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f84XgGPtEeW6__J4rxrvtA" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f84-kGPtEeW6__J4rxrvtA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_f84-kWPtEeW6__J4rxrvtA" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=WaterBlock%5Bjcu%5Ename=WaterBlock.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f8qVEmPtEeW6__J4rxrvtA" y="20903"/>
+  </children>
+  <element xsi:nil="true"/>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_gQ9xIGPtEeW6__J4rxrvtA" source="_f7FAsGPtEeW6__J4rxrvtA" target="_f74R8mPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gQ-YMGPtEeW6__J4rxrvtA" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gQ-_QGPtEeW6__J4rxrvtA" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gQ_mUGPtEeW6__J4rxrvtA" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gQ-_QWPtEeW6__J4rxrvtA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gQ-YMWPtEeW6__J4rxrvtA" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=BlockFactory%5Bjcu%5Ename=BlockFactory.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=SkyBlock%5Bjcu%5Ename=SkyBlock.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gQ9xIWPtEeW6__J4rxrvtA" points="[53, 101, -1562, -5840]$[53, 3365, -1562, -2576]$[1641, 3365, 26, -2576]$[1641, 5941, 26, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfGTwGPtEeW6__J4rxrvtA" id="(0.6668443459861029,0.9553001277139208)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfG60GPtEeW6__J4rxrvtA" id="(0.3333339414992994,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_gQ_mUWPtEeW6__J4rxrvtA" source="_f7FAsGPtEeW6__J4rxrvtA" target="_f7pocmPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gRA0cGPtEeW6__J4rxrvtA" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRA0cmPtEeW6__J4rxrvtA" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRBbgGPtEeW6__J4rxrvtA" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRA0c2PtEeW6__J4rxrvtA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gRA0cWPtEeW6__J4rxrvtA" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=BlockFactory%5Bjcu%5Ename=BlockFactory.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Block%5Bjcu%5Ename=Block.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gQ_mUmPtEeW6__J4rxrvtA" points="[39, 101, -1295, -12298]$[39, 3894, -1295, -8505]$[230, 3894, -1104, -8505]$[230, 10812, -1104, -1587]$[1373, 10812, 39, -1587]$[1373, 12399, 39, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfIwAGPtEeW6__J4rxrvtA" id="(0.5001778718214075,0.9553001277139208)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfJXEGPtEeW6__J4rxrvtA" id="(0.5000583474781766,-6.755763801470219E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_gRBbgWPtEeW6__J4rxrvtA" source="_f7FAsGPtEeW6__J4rxrvtA" target="_f8cSoGPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gRCCkGPtEeW6__J4rxrvtA" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRCpoGPtEeW6__J4rxrvtA" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRCpomPtEeW6__J4rxrvtA" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRCpoWPtEeW6__J4rxrvtA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gRCCkWPtEeW6__J4rxrvtA" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=BlockFactory%5Bjcu%5Ename=BlockFactory.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Terrain%5Bjcu%5Ename=Terrain.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gRBbgmPtEeW6__J4rxrvtA" points="[65, 101, -7144, -5640]$[65, 2836, -7144, -2905]$[7235, 2836, 26, -2905]$[7235, 5741, 26, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfOPkWPtEeW6__J4rxrvtA" id="(0.8335108201507984,0.9553001277139208)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfO2oGPtEeW6__J4rxrvtA" id="(0.3336763758936081,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_gRDQsGPtEeW6__J4rxrvtA" source="_f7FAsGPtEeW6__J4rxrvtA" target="_f7oaUmPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gRD3wGPtEeW6__J4rxrvtA" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRD3wmPtEeW6__J4rxrvtA" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRD3xGPtEeW6__J4rxrvtA" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRD3w2PtEeW6__J4rxrvtA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gRD3wWPtEeW6__J4rxrvtA" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=BlockFactory%5Bjcu%5Ename=BlockFactory.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=DirtBlock%5Bjcu%5Ename=DirtBlock.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gRDQsWPtEeW6__J4rxrvtA" points="[26, 101, 1960, -5840]$[26, 2307, 1960, -3634]$[-1894, 2307, 40, -3634]$[-1894, 5941, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfLMQGPtEeW6__J4rxrvtA" id="(0.3335111089037552,0.9553001277139208)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfLzUGPtEeW6__J4rxrvtA" id="(0.5000004561244745,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_gREe0GPtEeW6__J4rxrvtA" source="_f7FAsGPtEeW6__J4rxrvtA" target="_f8qVEWPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gRFF4GPtEeW6__J4rxrvtA" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRFF4mPtEeW6__J4rxrvtA" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRFs8GPtEeW6__J4rxrvtA" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRFF42PtEeW6__J4rxrvtA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gRFF4WPtEeW6__J4rxrvtA" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=BlockFactory%5Bjcu%5Ename=BlockFactory.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=WaterBlock%5Bjcu%5Ename=WaterBlock.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gREe0WPtEeW6__J4rxrvtA" points="[13, 101, 7800, -5840]$[13, 1778, 7800, -4163]$[-7747, 1778, 40, -4163]$[-7747, 5941, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfVkUGPtEeW6__J4rxrvtA" id="(0.16684434598610237,0.9553001277139208)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfVkUWPtEeW6__J4rxrvtA" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_gRFs8WPtEeW6__J4rxrvtA" source="_f7oaUmPtEeW6__J4rxrvtA" target="_f7pocmPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gRGUAGPtEeW6__J4rxrvtA" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRG7EWPtEeW6__J4rxrvtA" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRG7EmPtEeW6__J4rxrvtA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gRG7EGPtEeW6__J4rxrvtA" y="-186"/>
+    </children>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=DirtBlock%5Bjcu%5Ename=DirtBlock.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Block%5Bjcu%5Ename=Block.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gRFs8mPtEeW6__J4rxrvtA" points="[40, 102, -2933, -3739]$[40, 2783, -2933, -1058]$[2999, 2783, 26, -1058]$[2999, 3841, 26, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfJ-IGPtEeW6__J4rxrvtA" id="(0.5000004561244745,0.9628186968838514)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfKlMGPtEeW6__J4rxrvtA" id="(0.3333918071047527,-6.755763801470219E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_gRHiIGPtEeW6__J4rxrvtA" source="_f7rdomPtEeW6__J4rxrvtA" target="_f8cSoGPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gRIJMGPtEeW6__J4rxrvtA" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRIJMmPtEeW6__J4rxrvtA" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRIwQWPtEeW6__J4rxrvtA" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRIwQGPtEeW6__J4rxrvtA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gRIJMWPtEeW6__J4rxrvtA" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=WorldMap%5Bjcu%5Ename=WorldMap.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Terrain%5Bjcu%5Ename=Terrain.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gRHiIWPtEeW6__J4rxrvtA" points="[34, 104, -642, -11148]$[34, 7818, -642, -3434]$[729, 7818, 53, -3434]$[729, 11252, 53, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfNogGPtEeW6__J4rxrvtA" id="(0.42874654597766637,0.9891304347826085)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfOPkGPtEeW6__J4rxrvtA" id="(0.6670102567809083,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_gRIwQmPtEeW6__J4rxrvtA" source="_f7rdomPtEeW6__J4rxrvtA" target="_f74R8mPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gRJXUGPtEeW6__J4rxrvtA" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRJ-YGPtEeW6__J4rxrvtA" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRJ-YmPtEeW6__J4rxrvtA" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRJ-YWPtEeW6__J4rxrvtA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gRJXUWPtEeW6__J4rxrvtA" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=WorldMap%5Bjcu%5Ename=WorldMap.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=SkyBlock%5Bjcu%5Ename=SkyBlock.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gRIwQ2PtEeW6__J4rxrvtA" points="[23, 104, 4241, -11348]$[23, 8876, 4241, -2576]$[-4166, 8876, 52, -2576]$[-4166, 11452, 52, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfPdsGPtEeW6__J4rxrvtA" id="(0.28588933953395623,0.9891304347826085)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfQEwGPtEeW6__J4rxrvtA" id="(0.6666671988118865,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_gRJ-Y2PtEeW6__J4rxrvtA" source="_f7rdomPtEeW6__J4rxrvtA" target="_f72cwmPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gRKlcGPtEeW6__J4rxrvtA" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRLMgGPtEeW6__J4rxrvtA" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRLMgmPtEeW6__J4rxrvtA" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRLMgWPtEeW6__J4rxrvtA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gRKlcWPtEeW6__J4rxrvtA" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=WorldMap%5Bjcu%5Ename=WorldMap.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Region%5Bjcu%5Ename=Region.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gRJ-ZGPtEeW6__J4rxrvtA" points="[57, 104, -3823, -2221]$[57, 1267, -3823, -1058]$[3919, 1267, 39, -1058]$[3919, 2325, 39, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfQr0GPtEeW6__J4rxrvtA" id="(0.7144609588650858,0.9891304347826085)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfRS4GPtEeW6__J4rxrvtA" id="(0.5001486356809078,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_gRLzkGPtEeW6__J4rxrvtA" source="_f7rdomPtEeW6__J4rxrvtA" target="_f7pocmPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gRMaoGPtEeW6__J4rxrvtA" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRMaomPtEeW6__J4rxrvtA" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRNBsGPtEeW6__J4rxrvtA" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRMao2PtEeW6__J4rxrvtA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gRMaoWPtEeW6__J4rxrvtA" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=WorldMap%5Bjcu%5Ename=WorldMap.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Block%5Bjcu%5Ename=Block.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gRLzkWPtEeW6__J4rxrvtA" points="[67, 104, 7288, -17806]$[67, 738, 7288, -17172]$[6079, 738, 13300, -17172]$[6079, 16852, 13300, -1058]$[-7155, 16852, 66, -1058]$[-7155, 17910, 66, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfMaYGPtEeW6__J4rxrvtA" id="(0.8573181653087967,0.9891304347826085)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfNBcGPtEeW6__J4rxrvtA" id="(0.8333918071047527,-6.755763801470219E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_gRNBsWPtEeW6__J4rxrvtA" source="_f7rdomPtEeW6__J4rxrvtA" target="_f7t54mPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gRNowGPtEeW6__J4rxrvtA" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRNowmPtEeW6__J4rxrvtA" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gROP0WPtEeW6__J4rxrvtA" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gROP0GPtEeW6__J4rxrvtA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gRNowWPtEeW6__J4rxrvtA" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=WorldMap%5Bjcu%5Ename=WorldMap.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Location%5Bjcu%5Ename=Location.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gRNBsmPtEeW6__J4rxrvtA" points="[45, 104, -3892, -9830]$[45, 7289, -3892, -2645]$[3964, 7289, 27, -2645]$[3964, 9934, 27, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfShAGPtEeW6__J4rxrvtA" id="(0.5716037524213765,0.9891304347826085)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfTIEGPtEeW6__J4rxrvtA" id="(0.3336223525380262,-6.20815496090736E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_gROP0mPtEeW6__J4rxrvtA" source="_f7rdomPtEeW6__J4rxrvtA" target="_f7FAsGPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gRO24GPtEeW6__J4rxrvtA" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRPd8GPtEeW6__J4rxrvtA" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRPd8mPtEeW6__J4rxrvtA" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRPd8WPtEeW6__J4rxrvtA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gRO24WPtEeW6__J4rxrvtA" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=WorldMap%5Bjcu%5Ename=WorldMap.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=BlockFactory%5Bjcu%5Ename=BlockFactory.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gROP02PtEeW6__J4rxrvtA" points="[11, 104, 7180, -3264]$[11, 738, 7180, -2630]$[-7130, 738, 39, -2630]$[-7130, 3368, 39, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfTvIGPtEeW6__J4rxrvtA" id="(0.14303213309024612,0.9891304347826085)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfTvIWPtEeW6__J4rxrvtA" id="(0.5001778718214075,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_gRQFAGPtEeW6__J4rxrvtA" source="_f72cwmPtEeW6__J4rxrvtA" target="_f7t54mPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gRQsEGPtEeW6__J4rxrvtA" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRQsEmPtEeW6__J4rxrvtA" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRRTIWPtEeW6__J4rxrvtA" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRRTIGPtEeW6__J4rxrvtA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gRQsEWPtEeW6__J4rxrvtA" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Region%5Bjcu%5Ename=Region.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Location%5Bjcu%5Ename=Location.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gRQFAWPtEeW6__J4rxrvtA" points="[39, 103, -319, -3279]$[39, 737, -319, -2645]$[411, 737, 53, -2645]$[411, 3382, 53, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfR58GPtEeW6__J4rxrvtA" id="(0.5001486356809078,0.9763246899661782)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfR58WPtEeW6__J4rxrvtA" id="(0.6669559161655453,-6.20815496090736E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_gRRTImPtEeW6__J4rxrvtA" source="_f74R8mPtEeW6__J4rxrvtA" target="_f7pocmPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gRR6MGPtEeW6__J4rxrvtA" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRShQGPtEeW6__J4rxrvtA" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRShQWPtEeW6__J4rxrvtA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gRR6MWPtEeW6__J4rxrvtA" y="-186"/>
+    </children>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=SkyBlock%5Bjcu%5Ename=SkyBlock.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Block%5Bjcu%5Ename=Block.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gRRTI2PtEeW6__J4rxrvtA" points="[40, 102, 725, -3739]$[40, 2254, 725, -1587]$[-633, 2254, 52, -1587]$[-633, 3841, 52, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfHh4GPtEeW6__J4rxrvtA" id="(0.5000004561244741,0.9628186968838514)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfII8GPtEeW6__J4rxrvtA" id="(0.6667250772914646,-6.755763801470219E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_gRShQmPtEeW6__J4rxrvtA" source="_f8qVEWPtEeW6__J4rxrvtA" target="_f7pocmPtEeW6__J4rxrvtA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gRTIUGPtEeW6__J4rxrvtA" type="NameLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRTvYGPtEeW6__J4rxrvtA" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_gRTvYWPtEeW6__J4rxrvtA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gRTIUWPtEeW6__J4rxrvtA" y="-186"/>
+    </children>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=WaterBlock%5Bjcu%5Ename=WaterBlock.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Block%5Bjcu%5Ename=Block.java%5Bjpack%5Ename=com.inaworld.domain.geography%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_gRShQ2PtEeW6__J4rxrvtA" points="[40, 102, -8490, -3739]$[40, 3312, -8490, -529]$[8543, 3312, 13, -529]$[8543, 3841, 13, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfUWMGPtEeW6__J4rxrvtA" id="(0.5,0.9628186968838514)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_gfU9QGPtEeW6__J4rxrvtA" id="(0.16672526673132845,-6.755763801470219E-16)"/>
+  </edges>
+</umlnotation:UMLDiagram>

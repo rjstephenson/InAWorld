@@ -1,0 +1,11 @@
+{ 
+	"attribDefs":		
+		[{"att":"age", "min":16, "max":35},
+		{"att":"charisma", "min":4, "max":24},
+		{"att":"dexterity", "min":4, "max":24},
+		{"att":"intellect", "min":4, "max":24},
+		{"att":"leadership", "min":4, "max":24},
+		{"att":"health", "min":4, "max":24},
+		{"att":"speed", "min":4, "max":24},
+		{"att":"strength", "min":4, "max":24}]
+ }

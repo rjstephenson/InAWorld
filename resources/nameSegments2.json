@@ -1,0 +1,68 @@
+
+   {
+      "success": true,
+      "artists": [
+         {
+            "name": "Ashley Hutchings",
+            "albumns": [
+               {
+                  "title" : "Copper, Russet and Gold",                
+                  "properties": [
+                     { "name": "artist",
+                       "value" : "Ashley Hutchings, Ken Nicol"
+                     },
+                     { "name": "id",
+                       "value" : "PRKCD109"
+                     }                     
+                  ]
+               },  
+               {        
+                  "title" : "Twanging and a Tradding",        
+                  "properties": [
+                     { "name": "artist",
+                       "value" : "Big Beat Combo"
+                     },
+                     { "name": "genre",
+                       "value" : "instrumental"
+                     },
+                     { "name": "id",
+                       "value" : "HTDCD25"
+                     }                     
+                  ]
+               }               
+            ]
+         }, 
+         {
+            "name": "Michael Chapman",
+            "albumns": [
+               {       
+                  "title" : "Heartbeat",         
+                  "properties": [
+                     { "name": "artist",
+                       "value" : "Michael Chapman"
+                     },
+                     { "name": "genre",
+                       "value" : "instrumental"
+                     },
+                     { "name": "id",
+                       "value" : "BP315CD"
+                     }                     
+                  ]
+               },  
+               {  
+                  "title" : "Original Owners",
+                                
+                  "properties": [
+                     { "name": "artist",
+                       "value" : "Michael Chapman, Rick Kemp"
+                     },
+                     { "name": "id",
+                       "value" : "RR002"
+                     }                     
+                  ]
+               }               
+            ]
+         }
+      ]
+   }
+

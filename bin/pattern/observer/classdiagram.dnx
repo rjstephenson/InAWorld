@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<umlnotation:UMLDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_Yss54KTlEeWOa9RV9v_mfA" type="Class" name="classdiagram.dnx">
+  <eAnnotations xmi:id="_Yss54aTlEeWOa9RV9v_mfA" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
+    <details xmi:id="_Ystg8KTlEeWOa9RV9v_mfA" key="com.ibm.xtools.activities.javaVisualizerActivity" value="1"/>
+  </eAnnotations>
+  <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_aVbyQKTlEeWOa9RV9v_mfA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label" useClassifierShape="true">
+    <children xmi:type="notation:DecorationNode" xmi:id="_aVdncKTlEeWOa9RV9v_mfA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_aVdncaTlEeWOa9RV9v_mfA" width="530" height="530"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_aVdncqTlEeWOa9RV9v_mfA" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_aVeOgKTlEeWOa9RV9v_mfA" type="Kind"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_aVeOgaTlEeWOa9RV9v_mfA" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_aVe1kKTlEeWOa9RV9v_mfA" type="Parent"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_aVe1kaTlEeWOa9RV9v_mfA" type="AttributeCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_aVfcoKTlEeWOa9RV9v_mfA" type="OperationCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_aVgDsKTlEeWOa9RV9v_mfA" visible="false" type="SignalCompartment"/>
+    <element xmi:type="uml:Interface" href="mmi:///#jsrctype%5Ename=WeatherObserver%5Bjcu%5Ename=WeatherObserver.java%5Bjpack%5Ename=pattern.observer%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D$uml.Interface"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aVbyQaTlEeWOa9RV9v_mfA" x="2536" y="12997"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_aVgqwKTlEeWOa9RV9v_mfA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_aVh44KTlEeWOa9RV9v_mfA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_aVh44aTlEeWOa9RV9v_mfA" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_aVh44qTlEeWOa9RV9v_mfA" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_aVif8KTlEeWOa9RV9v_mfA" type="Kind"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_aVif8aTlEeWOa9RV9v_mfA" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_aVjHAKTlEeWOa9RV9v_mfA" type="Parent"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_aVjHAaTlEeWOa9RV9v_mfA" type="EnumerationCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_aVjuEKTlEeWOa9RV9v_mfA" visible="false" type="AttributeCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_aVkVIKTlEeWOa9RV9v_mfA" visible="false" type="OperationCompartment"/>
+    <element xmi:type="uml:Enumeration" href="mmi:///#jsrctype%5Ename=Atmosphere%5Bjcu%5Ename=Atmosphere.java%5Bjpack%5Ename=pattern.observer%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D$uml.Enumeration"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aVgqwaTlEeWOa9RV9v_mfA" x="7925" y="7925"/>
+  </children>
+  <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_aVk8MKTlEeWOa9RV9v_mfA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label" useClassifierShape="true">
+    <children xmi:type="notation:DecorationNode" xmi:id="_aVljQKTlEeWOa9RV9v_mfA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_aVljQaTlEeWOa9RV9v_mfA" width="530" height="530"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_aVmKUKTlEeWOa9RV9v_mfA" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_aVmKUaTlEeWOa9RV9v_mfA" type="Kind"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_aVmxYKTlEeWOa9RV9v_mfA" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_aVmxYaTlEeWOa9RV9v_mfA" type="Parent"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_aVnYcKTlEeWOa9RV9v_mfA" type="AttributeCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_aVnYcaTlEeWOa9RV9v_mfA" type="OperationCompartment"/>
+    <children xmi:type="notation:SemanticListCompartment" xmi:id="_aVn_gKTlEeWOa9RV9v_mfA" visible="false" type="SignalCompartment"/>
+    <element xmi:type="uml:Interface" href="mmi:///#jsrctype%5Ename=WeatherSubject%5Bjcu%5Ename=WeatherSubject.java%5Bjpack%5Ename=pattern.observer%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D$uml.Interface"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aVk8MaTlEeWOa9RV9v_mfA" x="1585" y="6657"/>
+  </children>
+  <children xmi:type="umlnotation:UMLShape" xmi:id="_h5Ei0KTlEeWOa9RV9v_mfA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+    <children xmi:type="notation:DecorationNode" xmi:id="_h5Fw8KTlEeWOa9RV9v_mfA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_h5Fw8aTlEeWOa9RV9v_mfA" width="1320" height="1320"/>
+    </children>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_h5Fw8qTlEeWOa9RV9v_mfA" type="Stereotype"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_h5GYAKTlEeWOa9RV9v_mfA" type="Name"/>
+    <children xmi:type="notation:BasicDecorationNode" xmi:id="_h5GYAaTlEeWOa9RV9v_mfA" type="Parent"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_h5GYAqTlEeWOa9RV9v_mfA" visible="false" type="ANNOTATION_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_h5I0QKTlEeWOa9RV9v_mfA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+    <children xmi:type="notation:ListCompartment" xmi:id="_h5JbUKTlEeWOa9RV9v_mfA" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=AtmosphereObserverTest%5Bjcu%5Ename=AtmosphereObserverTest.java%5Bjpack%5Ename=com.atmosphere%5Bjsrcroot%5Esrcfolder=test%5Bproject%5Eid=InAWorld%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_h5Ei0aTlEeWOa9RV9v_mfA"/>
+  </children>
+  <element xsi:nil="true"/>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_aa9ygKTlEeWOa9RV9v_mfA" source="_aVgqwKTlEeWOa9RV9v_mfA" target="_aVbyQKTlEeWOa9RV9v_mfA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_aa-ZkKTlEeWOa9RV9v_mfA" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_aa_AoKTlEeWOa9RV9v_mfA" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_abAOwKTlEeWOa9RV9v_mfA" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_aa_AoaTlEeWOa9RV9v_mfA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aa-ZkaTlEeWOa9RV9v_mfA" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Atmosphere%5Bjcu%5Ename=Atmosphere.java%5Bjpack%5Ename=pattern.observer%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=WeatherObserver%5Bjcu%5Ename=WeatherObserver.java%5Bjpack%5Ename=pattern.observer%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_aa9ygaTlEeWOa9RV9v_mfA" points="[40, 98, 3660, -3635]$[40, 2146, 3660, -1587]$[-3561, 2146, 59, -1587]$[-3561, 3733, 59, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_aeb9QKTlEeWOa9RV9v_mfA" id="(0.5001170232568318,0.931462140992166)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_aeckUKTlEeWOa9RV9v_mfA" id="(0.75,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_abAOwaTlEeWOa9RV9v_mfA" source="_aVk8MKTlEeWOa9RV9v_mfA" target="_aVbyQKTlEeWOa9RV9v_mfA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_abBc4KTlEeWOa9RV9v_mfA" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_abBc4qTlEeWOa9RV9v_mfA" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_abCD8KTlEeWOa9RV9v_mfA" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_abBc46TlEeWOa9RV9v_mfA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_abBc4aTlEeWOa9RV9v_mfA" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=WeatherSubject%5Bjcu%5Ename=WeatherSubject.java%5Bjpack%5Ename=pattern.observer%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=WeatherObserver%5Bjcu%5Ename=WeatherObserver.java%5Bjpack%5Ename=pattern.observer%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_abAOwqTlEeWOa9RV9v_mfA" points="[40, 103, -965, -2221]$[40, 737, -965, -1587]$[1045, 737, 40, -1587]$[1045, 2324, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_aedycKTlEeWOa9RV9v_mfA" id="(0.5000763988888411,0.9759174311926602)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_aeeZgKTlEeWOa9RV9v_mfA" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_h_X_IKTlEeWOa9RV9v_mfA" source="_h5Ei0KTlEeWOa9RV9v_mfA" target="_aVbyQKTlEeWOa9RV9v_mfA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_h_ZNQKTlEeWOa9RV9v_mfA" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_h_Z0UKTlEeWOa9RV9v_mfA" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_h_Z0UqTlEeWOa9RV9v_mfA" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_h_Z0UaTlEeWOa9RV9v_mfA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_h_ZNQaTlEeWOa9RV9v_mfA" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AtmosphereObserverTest%5Bjcu%5Ename=AtmosphereObserverTest.java%5Bjpack%5Ename=com.atmosphere%5Bjsrcroot%5Esrcfolder=test%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=WeatherObserver%5Bjcu%5Ename=WeatherObserver.java%5Bjpack%5Ename=pattern.observer%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_h_X_IaTlEeWOa9RV9v_mfA" points="[20, 103, -1203, -8697]$[20, 737, -1203, -8063]$[-1353, 737, -2576, -8063]$[-1353, 7742, -2576, -1058]$[1243, 7742, 20, -1058]$[1243, 8800, 20, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kcUisKTlEeWOa9RV9v_mfA" id="(0.25,0.9763246899661782)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kcVJwKTlEeWOa9RV9v_mfA" id="(0.2499999999999999,0.0)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_h_abYKTlEeWOa9RV9v_mfA" source="_h5Ei0KTlEeWOa9RV9v_mfA" target="_aVgqwKTlEeWOa9RV9v_mfA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_h_bCcKTlEeWOa9RV9v_mfA" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_h_bpgKTlEeWOa9RV9v_mfA" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_h_cQkKTlEeWOa9RV9v_mfA" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_h_bpgaTlEeWOa9RV9v_mfA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_h_bCcaTlEeWOa9RV9v_mfA" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AtmosphereObserverTest%5Bjcu%5Ename=AtmosphereObserverTest.java%5Bjpack%5Ename=com.atmosphere%5Bjsrcroot%5Esrcfolder=test%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Atmosphere%5Bjcu%5Ename=Atmosphere.java%5Bjpack%5Ename=pattern.observer%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_h_abYaTlEeWOa9RV9v_mfA" points="[60, 103, -2337, -3635]$[60, 737, -2337, -3001]$[2437, 737, 40, -3001]$[2437, 3738, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kcWX4KTlEeWOa9RV9v_mfA" id="(0.7499999999999999,0.9763246899661782)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kcXmAKTlEeWOa9RV9v_mfA" id="(0.5001170232568318,-5.936649489379427E-16)"/>
+  </edges>
+  <edges xmi:type="umlnotation:UMLConnector" xmi:id="_h_cQkaTlEeWOa9RV9v_mfA" source="_h5Ei0KTlEeWOa9RV9v_mfA" target="_aVk8MKTlEeWOa9RV9v_mfA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+    <children xmi:type="notation:DecorationNode" xmi:id="_h_desKTlEeWOa9RV9v_mfA" type="KindLabel">
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_h_desqTlEeWOa9RV9v_mfA" type="Stereotype"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_h_eFwaTlEeWOa9RV9v_mfA" type="Kind"/>
+      <children xmi:type="notation:BasicDecorationNode" xmi:id="_h_eFwKTlEeWOa9RV9v_mfA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_h_desaTlEeWOa9RV9v_mfA" y="-186"/>
+    </children>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AtmosphereObserverTest%5Bjcu%5Ename=AtmosphereObserverTest.java%5Bjpack%5Ename=com.atmosphere%5Bjsrcroot%5Esrcfolder=test%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=WeatherSubject%5Bjcu%5Ename=WeatherSubject.java%5Bjpack%5Ename=pattern.observer%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=InAWorld%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_h_cQkqTlEeWOa9RV9v_mfA" points="[40, 103, 1045, -2221]$[40, 737, 1045, -1587]$[-965, 737, 40, -1587]$[-965, 2324, 40, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kcY0IKTlEeWOa9RV9v_mfA" id="(0.5,0.9763246899661782)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kcaCQKTlEeWOa9RV9v_mfA" id="(0.5000763988888411,-2.0859970224149731E-16)"/>
+  </edges>
+</umlnotation:UMLDiagram>
